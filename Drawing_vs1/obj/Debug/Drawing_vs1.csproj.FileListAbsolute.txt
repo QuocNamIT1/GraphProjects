@@ -1,0 +1,11 @@
+E:\HK6\GiaiToanThongMinh\Source\Drawing_vs1\Drawing_vs1\bin\Debug\Drawing_vs1.exe.config
+E:\HK6\GiaiToanThongMinh\Source\Drawing_vs1\Drawing_vs1\bin\Debug\Drawing_vs1.exe
+E:\HK6\GiaiToanThongMinh\Source\Drawing_vs1\Drawing_vs1\bin\Debug\Drawing_vs1.pdb
+E:\HK6\GiaiToanThongMinh\Source\Drawing_vs1\Drawing_vs1\obj\Debug\Drawing_vs1.csprojResolveAssemblyReference.cache
+E:\HK6\GiaiToanThongMinh\Source\Drawing_vs1\Drawing_vs1\obj\Debug\Drawing_vs1.Form1.resources
+E:\HK6\GiaiToanThongMinh\Source\Drawing_vs1\Drawing_vs1\obj\Debug\Drawing_vs1.Input.resources
+E:\HK6\GiaiToanThongMinh\Source\Drawing_vs1\Drawing_vs1\obj\Debug\Drawing_vs1.Properties.Resources.resources
+E:\HK6\GiaiToanThongMinh\Source\Drawing_vs1\Drawing_vs1\obj\Debug\Drawing_vs1.csproj.GenerateResource.Cache
+E:\HK6\GiaiToanThongMinh\Source\Drawing_vs1\Drawing_vs1\obj\Debug\Drawing_vs1.exe
+E:\HK6\GiaiToanThongMinh\Source\Drawing_vs1\Drawing_vs1\obj\Debug\Drawing_vs1.pdb
+E:\HK6\GiaiToanThongMinh\Source\Drawing_vs1\Drawing_vs1\obj\Debug\Drawing_vs1.MatrixReference.resources

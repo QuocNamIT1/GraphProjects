@@ -1,0 +1,44 @@
+E:\HK6\GiaiToanThongMinh\Source\Drawing_vs1\Drawing_vs1\bin\Release\Drawing_vs1.exe.config
+E:\HK6\GiaiToanThongMinh\Source\Drawing_vs1\Drawing_vs1\bin\Release\Drawing_vs1.exe
+E:\HK6\GiaiToanThongMinh\Source\Drawing_vs1\Drawing_vs1\bin\Release\Drawing_vs1.pdb
+E:\HK6\GiaiToanThongMinh\Source\Drawing_vs1\Drawing_vs1\obj\Release\Drawing_vs1.csprojResolveAssemblyReference.cache
+E:\HK6\GiaiToanThongMinh\Source\Drawing_vs1\Drawing_vs1\obj\Release\Drawing_vs1.Form1.resources
+E:\HK6\GiaiToanThongMinh\Source\Drawing_vs1\Drawing_vs1\obj\Release\Drawing_vs1.Input.resources
+E:\HK6\GiaiToanThongMinh\Source\Drawing_vs1\Drawing_vs1\obj\Release\Drawing_vs1.Properties.Resources.resources
+E:\HK6\GiaiToanThongMinh\Source\Drawing_vs1\Drawing_vs1\obj\Release\Drawing_vs1.csproj.GenerateResource.Cache
+E:\HK6\GiaiToanThongMinh\Source\Drawing_vs1\Drawing_vs1\obj\Release\Drawing_vs1.exe
+E:\HK6\GiaiToanThongMinh\Source\Drawing_vs1\Drawing_vs1\obj\Release\Drawing_vs1.pdb
+E:\HK6\GiaiToanThongMinh\Source\Drawing_vs1\Drawing_vs1\obj\Release\Drawing_vs1.MatrixReference.resources
+C:\Users\nam\Downloads\Drawing_vs1\Drawing_vs1\Drawing_vs1\bin\Release\Drawing_vs1.exe.config
+C:\Users\nam\Downloads\Drawing_vs1\Drawing_vs1\Drawing_vs1\obj\Release\Drawing_vs1.exe
+C:\Users\nam\Downloads\Drawing_vs1\Drawing_vs1\Drawing_vs1\obj\Release\Drawing_vs1.pdb
+C:\Users\nam\Downloads\Drawing_vs1\Drawing_vs1\Drawing_vs1\bin\Release\Drawing_vs1.exe
+C:\Users\nam\Downloads\Drawing_vs1\Drawing_vs1\Drawing_vs1\bin\Release\Drawing_vs1.pdb
+C:\Users\nam\Downloads\Drawing_vs1\Drawing_vs1\Drawing_vs1\obj\Release\Drawing_vs1.csprojResolveAssemblyReference.cache
+C:\Users\nam\Downloads\Drawing_vs1\Drawing_vs1\Drawing_vs1\obj\Release\Drawing_vs1.Form1.resources
+C:\Users\nam\Downloads\Drawing_vs1\Drawing_vs1\Drawing_vs1\obj\Release\Drawing_vs1.Input.resources
+C:\Users\nam\Downloads\Drawing_vs1\Drawing_vs1\Drawing_vs1\obj\Release\Drawing_vs1.MatrixReference.resources
+C:\Users\nam\Downloads\Drawing_vs1\Drawing_vs1\Drawing_vs1\obj\Release\Drawing_vs1.Properties.Resources.resources
+C:\Users\nam\Downloads\Drawing_vs1\Drawing_vs1\Drawing_vs1\obj\Release\Drawing_vs1.csproj.GenerateResource.Cache
+C:\Users\hoahuynhpc\Desktop\IPS\Drawing_vs1\Drawing_vs1\Drawing_vs1\bin\Release\Drawing_vs1.exe.config
+C:\Users\hoahuynhpc\Desktop\IPS\Drawing_vs1\Drawing_vs1\Drawing_vs1\obj\Release\Drawing_vs1.exe
+C:\Users\hoahuynhpc\Desktop\IPS\Drawing_vs1\Drawing_vs1\Drawing_vs1\obj\Release\Drawing_vs1.pdb
+C:\Users\hoahuynhpc\Desktop\IPS\Drawing_vs1\Drawing_vs1\Drawing_vs1\bin\Release\Drawing_vs1.exe
+C:\Users\hoahuynhpc\Desktop\IPS\Drawing_vs1\Drawing_vs1\Drawing_vs1\bin\Release\Drawing_vs1.pdb
+C:\Users\hoahuynhpc\Desktop\IPS\Drawing_vs1\Drawing_vs1\Drawing_vs1\obj\Release\Drawing_vs1.csprojResolveAssemblyReference.cache
+C:\Users\hoahuynhpc\Desktop\IPS\Drawing_vs1\Drawing_vs1\Drawing_vs1\obj\Release\Drawing_vs1.Form1.resources
+C:\Users\hoahuynhpc\Desktop\IPS\Drawing_vs1\Drawing_vs1\Drawing_vs1\obj\Release\Drawing_vs1.Input.resources
+C:\Users\hoahuynhpc\Desktop\IPS\Drawing_vs1\Drawing_vs1\Drawing_vs1\obj\Release\Drawing_vs1.MatrixReference.resources
+C:\Users\hoahuynhpc\Desktop\IPS\Drawing_vs1\Drawing_vs1\Drawing_vs1\obj\Release\Drawing_vs1.Properties.Resources.resources
+C:\Users\hoahuynhpc\Desktop\IPS\Drawing_vs1\Drawing_vs1\Drawing_vs1\obj\Release\Drawing_vs1.csproj.GenerateResource.Cache
+C:\Users\nam\Downloads\Drawing_vs1 (1)\Drawing_vs1\Drawing_vs1\Drawing_vs1\bin\Release\Drawing_vs1.exe.config
+C:\Users\nam\Downloads\Drawing_vs1 (1)\Drawing_vs1\Drawing_vs1\Drawing_vs1\obj\Release\Drawing_vs1.exe
+C:\Users\nam\Downloads\Drawing_vs1 (1)\Drawing_vs1\Drawing_vs1\Drawing_vs1\obj\Release\Drawing_vs1.pdb
+C:\Users\nam\Downloads\Drawing_vs1 (1)\Drawing_vs1\Drawing_vs1\Drawing_vs1\bin\Release\Drawing_vs1.exe
+C:\Users\nam\Downloads\Drawing_vs1 (1)\Drawing_vs1\Drawing_vs1\Drawing_vs1\bin\Release\Drawing_vs1.pdb
+C:\Users\nam\Downloads\Drawing_vs1 (1)\Drawing_vs1\Drawing_vs1\Drawing_vs1\obj\Release\Drawing_vs1.csprojResolveAssemblyReference.cache
+C:\Users\nam\Downloads\Drawing_vs1 (1)\Drawing_vs1\Drawing_vs1\Drawing_vs1\obj\Release\Drawing_vs1.Form1.resources
+C:\Users\nam\Downloads\Drawing_vs1 (1)\Drawing_vs1\Drawing_vs1\Drawing_vs1\obj\Release\Drawing_vs1.Input.resources
+C:\Users\nam\Downloads\Drawing_vs1 (1)\Drawing_vs1\Drawing_vs1\Drawing_vs1\obj\Release\Drawing_vs1.MatrixReference.resources
+C:\Users\nam\Downloads\Drawing_vs1 (1)\Drawing_vs1\Drawing_vs1\Drawing_vs1\obj\Release\Drawing_vs1.Properties.Resources.resources
+C:\Users\nam\Downloads\Drawing_vs1 (1)\Drawing_vs1\Drawing_vs1\Drawing_vs1\obj\Release\Drawing_vs1.csproj.GenerateResource.Cache
