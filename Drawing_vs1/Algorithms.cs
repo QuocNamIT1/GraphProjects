@@ -29,12 +29,19 @@ namespace Drawing_vs1
         {
             get
             {
-                return _listEdge ?? (_listEdge = Form1.getInstance().MainListEdge);
+                return _listEdge ?? (_listEdge = CloneEdges());
             }
             private set
             {
 
             }
+        }
+
+        private List<Edge> CloneEdges()
+        {
+            var newList = new List<Edge>(Form1.getInstance().MainListEdge.Capacity);
+            newList.AddRange(Form1.getInstance().MainListEdge);
+            return newList;
         }
         public Algorithms()
         {
@@ -42,8 +49,16 @@ namespace Drawing_vs1
             Matrix = Form1.getInstance().ConverMatrix();
             Parent = new int[ListVertex.Count];
         }
-        
-        public List<int> GenerateNextVertex(int v)
+
+        public void InitParent()
+        {
+            for (int i = 0; i < Form1.getInstance().MainListVertex.Count; i++)
+            {
+                Parent[i] = -1;
+            }
+        }
+
+        public List<int> PhatSinhDinh(int v)
         {
             List<int> lVertex = new List<int>(); ;//dinh co the di
             for (int i = 0; i < ListVertex.Count; i++)

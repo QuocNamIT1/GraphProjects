@@ -16,7 +16,7 @@ namespace Drawing_vs1
         }
         public override void Run(int verIDStart, int verIDStartEnd = 0)
         { 
-            List<int> listV = GenerateNextVertex(verIDStart);
+            List<int> listV = PhatSinhDinh(verIDStart);
             Form1.getInstance().MainListVertex[verIDStart].Color = Color.Blue;
             
             Form1.getInstance().fInvalidate();//reset lai cua so ve

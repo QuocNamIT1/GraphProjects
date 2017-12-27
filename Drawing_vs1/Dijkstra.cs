@@ -15,9 +15,9 @@ namespace Drawing_vs1
         int countVertex; 
         public Dijkstra():base()
         {
-            countVertex = Form1.getInstance().MainListVertex.Count;
+            countVertex = ListVertex.Count;
         }
-        void KhoiTao(int verIDStart)
+        void Init(int verIDStart)
         {
             Len = new int[countVertex];
             for (int i = 0; i < countVertex; i++)
@@ -30,7 +30,7 @@ namespace Drawing_vs1
         }
         public override void Run(int verIDStart, int verIDEnd = 0)
         {
-            KhoiTao(verIDStart);
+            Init(verIDStart);
             int i = 0;
             bool kt = true;
             while (!IsVertexVisited(verIDEnd))
@@ -77,15 +77,15 @@ namespace Drawing_vs1
                 while (st.Count != 0)
                 {
                     e = st.Pop();
-                    if (Form1.getInstance().MainListVertex[e].Color != Color.Red)
-                        Form1.getInstance().MainListVertex[e].Color = Color.Blue;//to mau dinh
+                    if (ListVertex[e].Color != Color.Red)
+                        ListVertex[e].Color = Color.Blue;//to mau dinh
                     Form1.getInstance().fInvalidate();
                     Thread.Sleep(Form1.timeSleep * 20);
                     if (s != -1)
                     {
                         //to canh
                         int v = GetEdgeFromVertex(s, e);
-                        Form1.getInstance().MainListEdge[v].Color = Color.Blue;
+                        ListEdge[v].Color = Color.Blue;
                         //ve canh 
                         Form1.getInstance().DrawMoveV(s, e);
                         Thread.Sleep(Form1.timeSleep * 20);

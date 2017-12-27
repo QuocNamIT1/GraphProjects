@@ -52,6 +52,7 @@
     <Compile Include="FactoryAlgorithms.cs" />
     <Compile Include="FB.cs" />
     <Compile Include="Floyd.cs" />
+    <Compile Include="Kruskal.cs" />
     <Compile Include="MatrixReference.cs">
       <SubType>Form</SubType>
     </Compile>

@@ -14,12 +14,7 @@ namespace Drawing_vs1
         {
            
         }
-        public void InitParent() {
-            for (int i = 0; i < Form1.getInstance().MainListVertex.Count; i++)
-            {
-                Parent[i] = -1;
-            }
-        }
+        
         public override void Run(int verIDStart, int verIDEnd = 0)
         {
             int V, listTop = 0, listEnd = 0;
@@ -39,7 +34,7 @@ namespace Drawing_vs1
                         Form1.getInstance().DrawMoveV(Parent[V], V);
                     }
                     Form1.getInstance().MainListVertex[V].Color = Color.Blue;
-                    listV = GhepList(V,listV, GenerateNextVertex(V));
+                    listV = GhepList(V,listV, PhatSinhDinh(V));
                     listEnd = listV.Count - 1;
                     Form1.getInstance().fInvalidate();
                 }

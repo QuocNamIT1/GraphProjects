@@ -257,6 +257,9 @@ namespace Drawing_vs1
                         }
                         break;
                     }
+                    case AObject.Kruskal:
+                        FactoryAlgorithms.getAlgorithms(AObject.Kruskal).Run(v);
+                        break;
                 }
             }
             fInvalidate();
@@ -303,6 +306,11 @@ namespace Drawing_vs1
         private void verIDEnd_ValueChanged(object sender, EventArgs e)
         {
            
+        }
+
+        private void kruskalBtn_Click(object sender, EventArgs e)
+        {
+            FactoryAlgorithms.getAlgorithms(AObject.Kruskal).Run((int)verIDStart.Value);
         }
         
     }

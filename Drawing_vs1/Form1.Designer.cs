@@ -40,6 +40,7 @@
             this.label2 = new System.Windows.Forms.Label();
             this.verIDStart = new System.Windows.Forms.NumericUpDown();
             this.verIDEnd = new System.Windows.Forms.NumericUpDown();
+            this.kruskalBtn = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.ptbArea)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.verIDStart)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.verIDEnd)).BeginInit();
@@ -165,11 +166,22 @@
             this.verIDEnd.TabIndex = 13;
             this.verIDEnd.ValueChanged += new System.EventHandler(this.verIDEnd_ValueChanged);
             // 
+            // kruskalBtn
+            // 
+            this.kruskalBtn.Location = new System.Drawing.Point(486, 374);
+            this.kruskalBtn.Name = "kruskalBtn";
+            this.kruskalBtn.Size = new System.Drawing.Size(75, 23);
+            this.kruskalBtn.TabIndex = 14;
+            this.kruskalBtn.Text = "Kruskal";
+            this.kruskalBtn.UseVisualStyleBackColor = true;
+            this.kruskalBtn.Click += new System.EventHandler(this.kruskalBtn_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(601, 501);
+            this.Controls.Add(this.kruskalBtn);
             this.Controls.Add(this.verIDEnd);
             this.Controls.Add(this.verIDStart);
             this.Controls.Add(this.label2);
@@ -206,6 +218,7 @@
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.NumericUpDown verIDStart;
         private System.Windows.Forms.NumericUpDown verIDEnd;
+        private System.Windows.Forms.Button kruskalBtn;
     }
 }
 

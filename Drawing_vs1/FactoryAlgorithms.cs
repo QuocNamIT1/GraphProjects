@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Drawing_vs1
 {
-    enum AObject { DFS,BFS,Floyd,Dijkstra, FB}
+    enum AObject { DFS,BFS,Floyd,Dijkstra, FB,Kruskal}
     class FactoryAlgorithms
     {
         public static Algorithms getAlgorithms(AObject obj)
@@ -34,10 +34,17 @@ namespace Drawing_vs1
                         alg = new Dijkstra();
                         break;
                     }
-                case AObject.FB: {
-                    alg = new FB();
-                    break;
-                }
+                case AObject.FB: 
+                    {
+                        alg = new FB();
+                        break;
+                    }
+                case AObject.Kruskal: 
+                    {
+                        alg = new Kruskal();
+                        break;
+                    }
+                
             }
             return alg;
         }
